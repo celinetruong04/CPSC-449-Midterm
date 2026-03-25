@@ -15,7 +15,7 @@ public class EventResponseDTO {
     private Long id;
     private String title;
     private String description;
-    private LocalDateTime eventData;
+    private LocalDateTime eventDate;
     private EventStatus status;
     private String organizerName;
     private String venueName;
